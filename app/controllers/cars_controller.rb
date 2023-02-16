@@ -1,4 +1,4 @@
-class CarsController < ActionController::Base
+class CarsController < ApplicationController
     def index
         
     end
